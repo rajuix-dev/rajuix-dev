@@ -141,22 +141,6 @@ An underwater object-detection project focused on identifying potential underwat
 
 ---
 
-## 📈 Contribution Activity
-
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=rajuix-dev&bg_color=0d1117&color=58a6ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/rajuix-dev)
-
-</div>
-
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
