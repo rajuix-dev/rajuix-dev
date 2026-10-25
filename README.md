@@ -143,13 +143,21 @@ An underwater object-detection project focused on identifying potential underwat
 
 ## 🐍 Contribution Snake
 
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajuix-dev/rajuix-dev/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajuix-dev/rajuix-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajuix-dev/rajuix-dev/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/rajuix-dev/rajuix-dev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%">
+</picture>
 
 </div>
 
----
 
 <div align="center">
 
